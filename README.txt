@@ -1,4 +1,4 @@
-Georgios Kamaras - 1115201400058
+Georgios Kamaras
 
 *Compile: make
 *Clean: make clean
